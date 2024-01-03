@@ -1,0 +1,11 @@
+{
+  "name": "backendproject",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "javascript, backend"
+  },
+  "author": "ritik",
+  "license": "ISC"
+}
