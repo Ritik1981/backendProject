@@ -1,0 +1,7 @@
+# Name of Files in which prettier should not implement
+
+*.env
+.env
+/.vscode
+/node_modules
+./dist
